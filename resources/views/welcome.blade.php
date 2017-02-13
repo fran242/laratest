@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5 - Addmira</div>
+                <div class="title">Laravel 5 - Addmira360</div>
             </div>
         </div>
     </body>
